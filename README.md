@@ -14,10 +14,10 @@ Lo scopo del gioco è guadagnare il maggior numero di punti sviluppo[2], produce
 
 È un gioco da due a cinque giocatori basato sulla strategia.
 Tra le molte strategie per vincere la partita, in particolare ci sono due direttrici strategiche, corrispondenti ai due modi di ottenere punti vittoria:
-• Alta produzione di merci, da spedire sui treni alla volta del Mondo. Le materie grezze non necessitano di impianti di produzione e l'energia ha bassi costi di investimento [4]. Per questi motivi sono spesso prodotti in grande quantità. Lo svantaggio consiste nella relativa difficoltà di accumulare denaro.[5]
-• Produrre un'inferiore quantità di merci ma di costo unitario superiore (medicinali e elettronica), da vendere al mercato in cambio di denaro, col quale costruire edifici. Il rovescio della medaglia è l'inferiore numero di merci spedite sui treni.[6]
+* Alta produzione di merci, da spedire sui treni alla volta del Mondo. Le materie grezze non necessitano di impianti di produzione e l'energia ha bassi costi di investimento [4]. Per questi motivi sono spesso prodotti in grande quantità. Lo svantaggio consiste nella relativa difficoltà di accumulare denaro.[5]
+* Produrre un'inferiore quantità di merci ma di costo unitario superiore (medicinali e elettronica), da vendere al mercato in cambio di denaro, col quale costruire edifici. Il rovescio della medaglia è l'inferiore numero di merci spedite sui treni.[6]
 
-• Uno dei punti di forza di Citadel (come nell'oroginale) è che non esiste un'unica strategia vincente[7].
+* Uno dei punti di forza di Citadel è che non esiste un'unica strategia vincente[7].
 
 giocatori: 2-5
 preparazione: 10 minuti
