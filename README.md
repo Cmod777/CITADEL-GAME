@@ -20,8 +20,11 @@ Tra le molte strategie per vincere la partita, in particolare ci sono due dirett
 * Uno dei punti di forza di Citadel è che non esiste un'unica strategia vincente[7].
 
 giocatori: 2-5
+
 preparazione: 10 minuti
+
 durata: 90-150 minuti
+
 azzardo: molto basso (prevale strategia)
 
 
@@ -101,4 +104,4 @@ Se siete dei giocatori che amano impostare le partite con tattiche ben pianific
 All'interno del manuale (regolamento) sono stati inseriti alcuni easter egg:
 * I giocatori dell'espansione 2 "Gli Eletti" sono 21, numero molto significativo nella cultura bitcoin
 * L'espansione dei Bitcoiner "Gli Eletti" termina a pagina 21
-* Se si scansiona il QR code della carta "Studio del Programmatore" si viene indirizzati al sito "Ventuno Italia", questo gioco è fatto in onore nel Progetto Ventuno
+* Se si scansiona il QR code della carta "Studio del Programmatore" si viene indirizzati al sito "Ventuno Italia", questo gioco è stato pensato per la Community del [Progetto Ventuno](https://ventuno.space/)
