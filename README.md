@@ -25,7 +25,7 @@ durata: 90-150 minuti
 azzardo: molto basso (prevale strategia)
 
 ### ISTRUZIONI DI STAMPA
-[QUI](https://github.com/Cmod777/CITADEL-GAME/blob/main/SCHEDE%20DI%20GIOCO%20%26%20ISTRUZIONI%20DI%20STAMPA/istruzioni%20di%20stampa.txt) le istruzioni di stampa in formato txt per i pezzi da stampare in 3D
+[QUI](https://github.com/Cmod777/CITADEL-GAME/blob/main/APPENDICI%20DA%20STAMPARE/istruzioni%20di%20stampa%203D.txt) le istruzioni di stampa in formato txt per i pezzi da stampare in 3D
 
 
 
