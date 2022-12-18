@@ -4,9 +4,6 @@ Sviluppa la tua Citadel (gioco Bitcoin)
 
 ## INTRODUZIONE AL GIOCO:
 
-Questa rivisitazione "non ufficiale" é tratta dall'originale Puerto Rico di Andreas Seyfarth (2002 - Germania - Alea Ravensburger).
-
-
 In questa edizione, i giocatori ricoprono il ruolo di Priori della Citadel Bitcoin [1] in un periodo storico imprecisato. 
 L'ambientazione ricorda un periodo Gotico-Futuristico; infatti sono presenti immagini, personaggi ed edifici antichi immersi tra materiali e tecnologie moderne. 
 
@@ -26,6 +23,9 @@ preparazione: 10 minuti
 durata: 90-150 minuti
 
 azzardo: molto basso (prevale strategia)
+
+### ISTRUZIONI DI STAMPA
+[QUI](https://github.com/Cmod777/CITADEL-GAME/blob/main/SCHEDE%20DI%20GIOCO%20%26%20ISTRUZIONI%20DI%20STAMPA/istruzioni%20di%20stampa.txt) le istruzioni di stampa in formato txt per i pezzi da stampare in 3D
 
 
 
@@ -105,3 +105,9 @@ All'interno del manuale (regolamento) sono stati inseriti alcuni easter egg:
 * I giocatori dell'espansione 2 "Gli Eletti" sono 21, numero molto significativo nella cultura bitcoin
 * L'espansione dei Bitcoiner "Gli Eletti" termina a pagina 21
 * Se si scansiona il QR code della carta "Studio del Programmatore" si viene indirizzati al sito "Ventuno Italia", questo gioco è stato pensato per la Community del [Progetto Ventuno](https://ventuno.space/)
+
+
+### CREDITS
+
+Questa rivisitazione "non ufficiale" é tratta dall'originale Puerto Rico di Andreas Seyfarth (2002 - Germania - Alea Ravensburger).
+
