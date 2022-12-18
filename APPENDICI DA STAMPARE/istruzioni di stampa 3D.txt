@@ -1,0 +1,36 @@
+ISTRUZIONI DI STAMPA
+
+L'intero lavoro di grafica é stato sviluppato in A2 (~42 x 60)
+Disponibili i fogli in originale. In caso di necessitá, contattami in privato.
+-il regolamento può essere stampato in A4
+-le schede di gioco principali vanno stampate in A3
+-le schede di gioco secondarie vanno stampate in A4
+
+Pezzi in stampa 3D
+I pezzi stampabili in 3D devono essere progettati preferibilmente per stampanti comuni a filamento (le piú economiche). Non sono presenti tra gli allegati pdf ma vengono incluse in cartelle a parte. Essi comprendono:
+• Monete n51 pz
+   - valore 1 con simbolo satoshi 43pz
+   - valore 5 con simbolo bitcoin 8pz
+• Casse merci n50 pz (di misura uguale ma diverso colore o simbolo distintivo)
+   - 11 (blu) energia
+   - 11 (bianche) cibo
+   - 10 (gialle) materie grezze
+   - 9 (marroni) medicinali
+   - 9 (nere) elettronica
+• Punti Sviluppo n50 pz (di forma esagonale)
+   - valore 1 (31 pezzi)
+   - valore 5 (19 pezzi)
+• Lavoratori n100 pz + n21 pz
+   - 100 pezzi base
+   - 21 bitcoiner (espansione "Eletti")
+
+Tutti i pezzi, ad esclusione dei Lavoratori e degli Eletti, devono essere impilabili. Progettare prevalentemente in forma piatta tipo moneta (tranne le casse).
+  - I lavoratori devono avere base tonda e rientrare negli appositi spazi delle schede (i cerchi), la dimensione ideale (stando alle proporzioni proposte) si aggira in una misura inferiore al centimetro.
+  - Le casse merci devono avere base quadrata. La dimensione ideale (stando alle proporzioni proposte) si aggira in una misura inferiore al centimetro e mezzo.
+
+Tutti i pezzi stampabili in 3D devono essere presentati (in caso di aggiunta) in una cartella apposita con il numero della versione (v1, v2...)
+
+Queste proporzioni sono indicative, possono essere adattate alle esigenze personali, sono graditi suggerimenti e istruzioni aggiuntive da parte dei membri della community che sviluppano alternative.
+
+
+
