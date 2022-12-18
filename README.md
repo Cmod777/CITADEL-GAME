@@ -111,3 +111,16 @@ All'interno del manuale (regolamento) sono stati inseriti alcuni easter egg:
 
 Questa rivisitazione "non ufficiale" é tratta dall'originale Puerto Rico di Andreas Seyfarth (2002 - Germania - Alea Ravensburger).
 
+### LICENSE
+
+Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 - Internazionale (CC BY-NC-SA 4.0)
+Il gioco qui proposto va considerato come materiale ludico, divulgativo e non commerciale. Le grafiche del gioco originale sono state completamente modificate, così come i loghi. I riferimenti di paternità sono indicati nella sezione "credits". Questo progetto, sviluppato per la community di bitcoiners italiani, è aperto a fork, modifiche o aggiunte a patto che venga sempre riportato un link a questo repository e al progetto originale e che le modifiche successive non vengano mai proposte a scopo di lucro. 
+
+Tu sei libero di:
+* Condividere — riprodurre, distribuire, comunicare al pubblico, esporre in pubblico, rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato
+* Modificare — remixare, trasformare il materiale e basarti su di esso per le tue opere
+Alle seguenti condizioni:
+* Attribuzione — Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
+* Non Commerciale — Non puoi utilizzare il materiale per scopi commerciali.
+* Stessa Licenza — Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con la stessa licenza del materiale originario.
+[CC BY-NC-SA](https://github.com/Cmod777/CITADEL-GAME/blob/main/LICENSE)
