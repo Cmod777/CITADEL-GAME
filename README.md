@@ -1,6 +1,6 @@
 # CITADEL
 Sviluppa la tua Citadel (gioco Bitcoin)
-
+![alt text](https://github.com/Cmod777/CITADEL-GAME/blob/main/COPERTINA.jpg)
 
 ## INTRODUZIONE AL GIOCO:
 
